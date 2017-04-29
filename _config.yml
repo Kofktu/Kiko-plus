@@ -20,7 +20,7 @@ author:
   # reddit:           your-id
   # medium:           your-id
   # tumblr:           your-id
-  email:            kofktu@gmail.com
+  # email:            kofktu@gmail.com
 
 copyright:
   year:             2017
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               ""
 
 # URL
 url:                "https://kofktu.github.io" # the base hostname & protocol for your site
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://kofktu.github.io"
+    url:            "https://github.com/kofktu"
 
 # Sass
 sass:
