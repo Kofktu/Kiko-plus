@@ -76,7 +76,7 @@ try? store.containers(matching: nil).forEach({ (container) in
 
 ## 연락처 추가/수정
 
-[CNSaveRequest](https://developer.apple.com/reference/contacts/cnsaverequest) 라는 녀석이 있다  
+[CNSaveRequest](https://developer.apple.com/reference/contacts/cnsaverequest) 라는 녀석이 있다  
 연락처의 변경사항에 대해 저장을 해주는 클래스이고 사용법은 간단하다.
 
 ```swift
