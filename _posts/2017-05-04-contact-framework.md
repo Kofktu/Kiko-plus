@@ -40,7 +40,7 @@ func requestAccess() {
 ## 연락처(CNContact) 받아오기
 
 Contacts.framework 에서 연락처 정보를 받아오는 경우에는 **CNKeyDescriptor** 정보가 필요하다  
-<mark>예를 들어</mark> 성, 이름 정보가 필요한데  
+예를 들어 성, 이름 정보가 필요한경우  
 
 ```swift
 
