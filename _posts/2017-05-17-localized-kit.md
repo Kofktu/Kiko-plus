@@ -90,8 +90,6 @@ macOS 앱 개발에 능숙하진 않아서 미려한 디자인, UI는 아니지�
 누군가 나에게 PR로 더 이쁜 코드를 보내줄거라 믿기 때문에!!ㅎㅎㅎ
 마지막으로 파일을 다운로드 할수 있는 링크를 남기고 이만 사라지도록 하겠다...  
 
----
-
 ## Download
 [Localized Kit]({{ site.url }}/assets/binary/LocalizeKit.zip)  
 sign 하지 않고 export한 앱입니다.  
