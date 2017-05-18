@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               ""
+  id:               "kofktus-note"
 
 # URL
 url:                "https://kofktu.github.io" # the base hostname & protocol for your site
